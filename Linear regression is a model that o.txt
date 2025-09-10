@@ -1,0 +1,5 @@
+Linear regression is a model that outputs a countinuous prediction as weighted sum of the input features 
+
+If we fit a linear regression where X is a single column vector, how many parameters will our model be made of? 2
+
+A categorical variable is a variable with a finite set of possible values 
